@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Eli Knodel
+# Licensed under the BSD 3-Clause License. See LICENSE file for details.
+
 import yaml
 import os
 import sys

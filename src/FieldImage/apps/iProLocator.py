@@ -1,4 +1,6 @@
-# I kind of want to output a map of image locations colored by their sites (or cities), if their data is structured this way
+# Copyright (c) 2025 Eli Knodel
+# Licensed under the BSD 3-Clause License. See LICENSE file for details.
+
 # If I decide to and can delete images based on PII, give them these original filenames too
 
 import argparse
