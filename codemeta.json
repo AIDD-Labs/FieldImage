@@ -1,0 +1,58 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "type": "SoftwareSourceCode",
+    "applicationCategory": "Reconnaissance, Field Work",
+    "author": [
+        {
+            "id": "https://orcid.org/0009-0007-2571-2118",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "Department of Civil and Environmental Engineering, University of Michigan"
+            },
+            "email": "knodel@umich.edu",
+            "familyName": "Knodel",
+            "givenName": "Eli"
+        }
+    ],
+    "codeRepository": "https://github.com/AIDD-Labs/FieldImage",
+    "contributor": {
+        "id": "https://orcid.org/0000-0001-7190-3432",
+        "type": "Person",
+        "affiliation": {
+            "type": "Organization",
+            "name": "Department of Civil and Environmental Engineering, University of Michigan"
+        },
+        "email": "sloos@umich.edu",
+        "familyName": "Loos",
+        "givenName": "Sabine"
+    },
+    "dateCreated": "2025-10-08",
+    "dateModified": "2025-10-14",
+    "datePublished": "2025-10-08",
+    "description": "FieldImage is a Python-based command-line tool that takes simply organized images and extracts their location information from existing metadata, outputting images in an organized file structure with a supporting image data table and map.",
+    "downloadUrl": "https://github.com/AIDD-Labs/FieldImage/archive/refs/tags/v1.0.0.zip",
+    "funder": {
+        "type": "Organization",
+        "name": "Earthquake Engineering Research Institute"
+    },
+    "keywords": [
+        "imagery",
+        "field",
+        "reconnaissance",
+        "publish",
+        "software"
+    ],
+    "license": "https://spdx.org/licenses/BSD-3-Clause",
+    "name": "FieldImage",
+    "operatingSystem": [
+        "Windows",
+        "macOS",
+        "Linux"
+    ],
+    "programmingLanguage": "Python",
+    "schema:releaseNotes": "Initial public release of FieldImage.",
+    "version": "1.0.0",
+    "developmentStatus": "active",
+    "issueTracker": "https://github.com/AIDD-Labs/FieldImage/issues"
+}
