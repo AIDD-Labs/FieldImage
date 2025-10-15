@@ -31,7 +31,7 @@
     "dateModified": "2025-10-14",
     "datePublished": "2025-10-08",
     "description": "FieldImage is a Python-based command-line tool that takes simply organized images and extracts their location information from existing metadata, outputting images in an organized file structure with a supporting image data table and map.",
-    "downloadUrl": "https://github.com/AIDD-Labs/FieldImage/archive/refs/tags/v1.0.0.zip",
+    "downloadUrl": "https://github.com/AIDD-Labs/FieldImage/archive/refs/tags/v1.0.1.zip",
     "funder": {
         "type": "Organization",
         "name": "Earthquake Engineering Research Institute"
@@ -51,8 +51,8 @@
         "Linux"
     ],
     "programmingLanguage": "Python",
-    "schema:releaseNotes": "Initial public release of FieldImage.",
-    "version": "1.0.0",
+    "schema:releaseNotes": "Release with codemeta.json",
+    "version": "1.0.1",
     "developmentStatus": "active",
     "issueTracker": "https://github.com/AIDD-Labs/FieldImage/issues"
 }
