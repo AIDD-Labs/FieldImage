@@ -542,7 +542,7 @@ To find the previously deleted image that will now be included in the output ima
 
 If you would like to cite this software, please use the following:
 
-- Knodel, E., S. Loos (2025). "FieldImage", in FieldImage. DesignSafe-CI. https://doi.org/10.17603/ds2-78cs-ma76
+- Knodel, E., S. Loos (2025). "FieldImage", in *FieldImage*. DesignSafe-CI. https://doi.org/10.17603/ds2-78cs-ma76
 
 ## Getting help
 
