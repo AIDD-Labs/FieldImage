@@ -538,6 +538,12 @@ For an image where `similar-image-deleted` is set to `TRUE` (kept image), you ca
 If you decide that you did not want one or more of the deleted images to have been removed, you can rerun `ipro-locator` under a greater threshold for `-d` or without the `-d` flag.
 To find the previously deleted image that will now be included in the output image data table, note the deleted image's `input-image-name` and search for it in the new image data table.
 
+## Suggested Citation
+
+If you would like to cite this software, please use the following:
+
+- Knodel, E., S. Loos (2025). "FieldImage", in FieldImage. DesignSafe-CI. https://doi.org/10.17603/ds2-78cs-ma76
+
 ## Getting help
 
 Any questions about FieldImage can be directed to its author:
